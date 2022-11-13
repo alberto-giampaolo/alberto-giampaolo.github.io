@@ -3918,7 +3918,7 @@ input[type="button"].btn--primary:focus {
 }
 
 .resume-block__header-meta {
-    font-family: var(--font-2);
+    font-family: var(--font-1);
     font-size: calc(var(--text-size) * 1.1111);
     font-style: italic;
     margin-top: -.4rem;

@@ -3941,7 +3941,7 @@ input[type="button"].btn--primary:focus {
 }
 
 .resume-block__header-date::before {
-    content: "\2022";
+    content: " "; /* content: "\2022";*/
     color: var(--color-text);
     margin-right: .2rem;
 }
